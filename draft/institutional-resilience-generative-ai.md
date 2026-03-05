@@ -1,4 +1,4 @@
-# Institutional Immune Systems: A Multi-Disciplinary Framework for Defending Epistemic Infrastructure in the Age of Generative AI
+# Institutional Immune Systems: A Transdisciplinary Framework for Defending Epistemic Infrastructure in the Age of Generative AI
 
 **A Proposal for University-Led Operational Research and Development**
 
